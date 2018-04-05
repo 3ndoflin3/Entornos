@@ -5,6 +5,8 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("Esta todo bien tranks");
 		System.out.println("Eres un liantee!!!");
+		System.out.println(" ");
+		System.out.println("Sin comentarios");
 		
 	}
 
